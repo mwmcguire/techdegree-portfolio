@@ -1,0 +1,44 @@
+{
+  "projects": [
+    {
+      "id": 0,
+      "project_name": "Random Quote Generator",
+      "description": "A project that generates random quotes",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": "https://mwmcguire.github.io/techdegree-random-quote-generator/",
+      "image_urls": ["url1", "url2", "url3"]
+    },
+    {
+      "id": 1,
+      "project_name": "List Pagination and Filtering",
+      "description": "Uses JavaScript to dynamically paginate and display a list of student names, photos, and email addresses.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": "https://mwmcguire.github.io/techdegree-list-pagination-and-filtering/",
+      "image_urls": ["url1", "url2", "url3"]
+    },
+    {
+      "id": 2,
+      "project_name": "Interactive Form",
+      "description": "Uses JavaScript to create interaction and error checking with a form.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": "https://mwmcguire.github.io/techdegree-interactive-form/",
+      "image_urls": ["url1", "url2", "url3"]
+    },
+    {
+      "id": 3,
+      "project_name": "OOP Game Show App",
+      "description": "Phrase Hunter is a game built using Object Oriented JavaScript Programming practices. Press the Enter key or click on the Start Game button to start the game. By using the onscreen or your own keyboard, select letters you think might be in the phrase. Win by guessing all of the correct letters. You have 5 chances to guess incorrectly.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": "https://mwmcguire.github.io/techdegree-oop-game-show-app/",
+      "image_urls": ["url1", "url2", "url3"]
+    },
+    {
+      "id": 4,
+      "project_name": "Public API Requests",
+      "description": "Project 5 for TeamTreeHouse Full Stack Techdegree. This app is a prototype employee directory for a fictional company called Awesome Startup. It uses the Random User API to grab information for 12 random employees, and display the data as individual cards. Clicking on a card will open a modal window with more detailed information. A search bar allows the user to search for an employee within the current directory.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": "phttps://mwmcguire.github.io/techdegree-public-api-requests/",
+      "image_urls": ["url1", "url2", "url3"]
+    }
+  ]
+}
